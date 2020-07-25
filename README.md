@@ -8,7 +8,7 @@ In love with tech and music, geek and Open Source world's enthusiast.
 - I would like to contribute with EN x PT-BR Translations or Codes. Bonus for Javascrip or C++.  
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=adoniasvitorio&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoniasvitorio&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoniasvitorio&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary> <b>Working with</b></summary>
