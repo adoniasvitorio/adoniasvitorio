@@ -5,10 +5,16 @@ In love with tech and music, geek and Open Source world's enthusiast.
 
 - *Full Stack Developer*.
 - Currently studying Javascript and PHP ecosystem, also interested in Bitcoin and Economy.
-- I would like to contribute with EN x PT-BR Translations or Codes. Bonus for Javascript or C++.  
+- I would like to contribute with EN x PT-BR Translations or Codes. 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=adoniasvitorio&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoniasvitorio&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+<center>
+<table>" 
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoniasvitorio&hide=html&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=adoniasvitorio&show_icons=true" /></td>
+  </tr>   
+</table>
+</center>
 
 <details>
   <summary> <b>Working with</b></summary>
