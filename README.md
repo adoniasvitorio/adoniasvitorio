@@ -8,10 +8,10 @@ In love with tech and music, geek and Open Source world's enthusiast.
 - I would like to contribute with EN x PT-BR Translations or Codes. 
 
 <center>
-<table>" 
+<table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoniasvitorio&hide=html&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=adoniasvitorio&show_icons=true" /></td>
+      <td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=adoniasvitorio&show_icons=true" /></td>
   </tr>   
 </table>
 </center>
