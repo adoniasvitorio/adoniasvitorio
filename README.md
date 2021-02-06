@@ -1,10 +1,11 @@
 ### Hello world!
 
 #### About me
-In love with tech and music, geek and Open Source world's enthusiast.
+Passionate about tech and music, geek and Open Source world's enthusiast.<br />
+Interested in Bitcoin and Economy.
 
 - *Full Stack Developer*.
-- Currently studying Javascript and PHP ecosystem, also interested in Bitcoin and Economy.
+- Currently studying Javascript and PHP ecosystem.
 - I would like to contribute with EN x PT-BR Translations or Codes. 
 
 <center>
