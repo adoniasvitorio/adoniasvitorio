@@ -5,7 +5,8 @@ Passionate about tech and music, geek and Open Source world's enthusiast.<br />
 Interested in Bitcoin and Economy.
 
 - *Full Stack Developer*.
-- Currently studying Javascript and PHP ecosystem.
+- Working with Laravel and VueJS.
+- Currently studying Javascript ecosystem.
 - I would like to contribute with EN x PT-BR Translations or Codes. 
 
 <center>
