@@ -1,8 +1,8 @@
 ### Hello world!
 
 #### About me
-Passionate about tech and music, geek and Open Source world's enthusiast.<br />
-Interested in History, Economy and Political Sciences too.
+Passionate about Tech and Music, Geek and Open Source enthusiast.<br />
+Interested in Business and Communities too.
 
 - *Full Stack Developer* working with Laravel and VueJS.
 - Currently studying Javascript ecosystem.
