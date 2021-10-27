@@ -1,4 +1,4 @@
-<img src="https://api.daily.dev/devcards/d227ea03471e4ce9b8f02353ed1b6197.png?r=602" align="right" height="670em"  alt="Adonias Vitorio's Dev Card"/>
+<img src="https://api.daily.dev/devcards/d227ea03471e4ce9b8f02353ed1b6197.png?r=602" align="right" height="600em"  alt="Adonias Vitorio's Dev Card"/>
 
 ### Hello world!
 #### About me
@@ -9,8 +9,8 @@ Interested in Business and Communities.
 - Currently studying Typescript and Microservices.
 - **Non often** I post in my [Blog](https://adoniasvitorio.com.br) and [Dev.to](https://dev.to/adoniasvitorio). 
 
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoniasvitorio&hide=html,css,blade,scss&layout=compact" alt="adoniasvitorio's stats"/>
-<img width="450em" src="https://github-readme-stats.vercel.app/api?username=adoniasvitorio&show_icons=true" alt="adoniasvitrorio's stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoniasvitorio&hide=html,css,blade,scss&layout=compact" alt="adoniasvitorio's stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=adoniasvitorio&show_icons=true" alt="adoniasvitrorio's stats"/>
 
 #### Contacts</br>
 
