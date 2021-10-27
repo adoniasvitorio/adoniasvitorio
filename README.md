@@ -1,4 +1,4 @@
-<img src="https://api.daily.dev/devcards/d227ea03471e4ce9b8f02353ed1b6197.png?r=602" align="right" height="550em"  alt="Adonias Vitorio's Dev Card"/>
+<img src="https://api.daily.dev/devcards/d227ea03471e4ce9b8f02353ed1b6197.png?r=602" align="right" height="590em"  alt="Adonias Vitorio's Dev Card"/>
 
 ### Hello world!
 #### About me
