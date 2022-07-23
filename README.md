@@ -5,8 +5,7 @@ I'm a fullstack software developer with a passion for technology, business, and 
 My main focus is web and mobile solutions.
 
 - Fullstack Software Developer at [Minu.co](https://www.minu.co/).
-- Currently using Javascript, Node.js, React.js, Next.js and Microservices.
-- **Non often** I post in my [Blog](https://adoniasvitorio.com.br) and [Dev.to](https://dev.to/adoniasvitorio). 
+- Working on Javascript, Node.js, Next.js, React.js and Microservices.
 
 <center>
 <table>
