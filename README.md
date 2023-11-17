@@ -1,7 +1,7 @@
 
 ### Hello world!
 
-I'm a fullstack software developer committed to crafting high-quality solutions..<br />
+I'm a fullstack software developer committed to crafting high-quality solutions.<br />
 My main focus is web and mobile solutions.
 
 - Fullstack Software Developer at [Minu.co](https://www.minu.co/).
