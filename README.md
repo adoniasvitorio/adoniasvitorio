@@ -12,8 +12,8 @@ My main focus is web and mobile solutions.
 - Languages: Javascript | Ruby | Python | PHP
 - Backend: Node.js | Ruby | Rails | Laravel.
 - Frontend: Next.js | React.js | Vue.js | Rails
-- Event Streams: Apache Kafka | Microservices
 - Mobile: React Native
+- Event Streams: Apache Kafka | Microservices
 - Databases: PostgreSQL | MySQL | MongoDB
 - Infra: AWS | Azure | Digital Ocean | Kubernetes | Docker | GitHub Actions
 - Tools: Git | CI&CD
